@@ -1,0 +1,395 @@
+{
+  "conteudos": [
+      {
+          "texto": "Inicio do Conteúdo - Use botão ABAIXO",
+          "audio": "acima.mp3"
+      },
+      {
+        "texto": "Lei 13.146/2015",
+        "audio": "a1.mp3"
+      },
+	  {
+          "texto": "Art 1",
+          "audio": "a1a.mp3"
+      },
+      {
+          "texto": "Do direito à vida",
+          "audio": "a1_1.mp3"
+      },
+      {
+          "texto": "Art 10",
+          "audio": "a1_1_1.mp3"
+      },
+	  {
+          "texto": "Art 11",
+          "audio": "a1_1_2.mp3"
+      },
+	  {
+          "texto": "Art 12",
+          "audio": "a1_1_3.mp3"
+      },
+	  {
+          "texto": "Art 13",
+          "audio": "a1_1_4.mp3"
+      },
+	  {
+          "texto": "Da igualdade da não discriminação",
+          "audio": "a1_2.mp3"
+      },
+	  {
+          "texto": "Art 4",
+          "audio": "a1_2_1.mp3"
+      },
+	  {
+          "texto": "Art 5",
+          "audio": "a1_2_2.mp3"
+      },
+	  {
+          "texto": "Art 6",
+          "audio": "a1_2_3.mp3"
+      },
+	  {
+          "texto": "Art 7",
+          "audio": "a1_2_4.mp3"
+      },
+	  {
+          "texto": "Art 8",
+          "audio": "a1_2_5.mp3"
+      },
+	  {
+          "texto": "Do atendimento prioritário",
+          "audio": "a1_3.mp3"
+      },
+	  {
+          "texto": "Art 9",
+          "audio": "a1_3_1.mp3"
+      },
+	  {
+          "texto": "Do direito à habilitação e à reabilitação ",
+          "audio": "a1_4.mp3"
+      },
+	  {
+          "texto": "Art 14",
+          "audio": "a1_4_1.mp3"
+      },
+	  {
+          "texto": "Art 15",
+          "audio": "a1_4_2.mp3"
+      },
+	  {
+          "texto": "Art 16",
+          "audio": "a1_4_3.mp3"
+      },
+	  {
+          "texto": "Art 17",
+          "audio": "a1_4_4.mp3"
+      },
+	   {
+          "texto": "Do direito à saúde",
+          "audio": "a1_5.mp3"
+      },
+	  {
+          "texto": "Art 18",
+          "audio": "a1_5_1.mp3"
+      },
+	  {
+          "texto": "Art 19",
+          "audio": "a1_5_2.mp3"
+      },
+	   {
+          "texto": "Art 20",
+          "audio": "a1_5_3.mp3"
+      },
+	  {
+          "texto": "Art 21",
+          "audio": "a1_5_4.mp3"
+      },
+	  {
+          "texto": "Art 22",
+          "audio": "a1_5_5.mp3"
+      },
+	  {
+          "texto": "Art 23",
+          "audio": "a1_5_6.mp3"
+      },
+	  {
+          "texto": "Art 24,Art 25 e Art 26",
+          "audio": "a1_5_7.mp3"
+      },
+	 {
+          "texto": "Do direito à educação",
+          "audio": "a1_6.mp3"
+      },
+	  {
+          "texto": "Art 27",
+          "audio": "a1_6_1.mp3"
+      },
+	  {
+          "texto": "Art 28",
+          "audio": "a1_6_2.mp3"
+      },
+	  {
+          "texto": "Art 29 vetado, foi impedido, Art 30",
+          "audio": "a1_6_3.mp3"
+      },
+	  {
+          "texto": "Do direito à moradia",
+          "audio": "a1_7.mp3"
+      },
+	  {
+          "texto": "Art 31",
+          "audio": "a1_7_1.mp3"
+      },
+	  {
+          "texto": "Art 32",
+          "audio": "a1_7_2.mp3"
+      },
+	  {
+          "texto": "Art 33",
+          "audio": "a1_7_3.mp3"
+      },
+	  {
+          "texto": "Do direito ao trabalho",
+          "audio": "a1_8.mp3"
+      },
+	  {
+          "texto": "Art 34",
+          "audio": "a1_8_1.mp3"
+      },
+	  {
+          "texto": "Art 35",
+          "audio": "a1_8_2.mp3"
+      },
+	  {
+          "texto": "Habilitação profissional e reabilitação profissional",
+          "audio": "a1_9.mp3"
+      },
+	  {
+          "texto": "Art 36",
+          "audio": "a1_9_1.mp3"
+      },
+	  {
+          "texto": "Da inclusão da pessoa com deficiência no trabalho",
+          "audio": "a1_10.mp3"
+      },
+	  {
+          "audio": "a1_10_1.mp3"
+      },
+	  {
+          "texto": "Art 38",
+          "audio": "a1_10_2.mp3"
+      },
+	  {
+          "texto": "Do direito à assistencia social",
+          "audio": "a1_11.mp3"
+      },
+	  {
+          "texto": "Art 39",
+          "audio": "a1_11_1.mp3"
+      },
+	  {
+          "texto": "Art 40",
+          "audio": "a1_11_2.mp3"
+      },
+	  {
+          "texto": "Do direito à previdência social",
+          "audio": "a1_12.mp3"
+      },
+	  {
+          "texto": "Art 41",
+          "audio": "a1_12_1.mp3"
+      },
+	  {
+          "texto": "Do direito à cultura, ao esporte, ao turismo e ao lazer",
+          "audio": "a1_13.mp3"
+      },
+	  {
+          "texto": "Art 42, Art 43, Art 44 e Art 45",
+          "audio": "a1_13_1.mp3"
+      },
+	  {
+          "texto": "Do direito ao transporte e a mobilidade",
+          "audio": "a1_14.mp3"
+      },
+	  {
+          "texto": "Art 46,Art 47,Art 48,Art 49,Art 50,Art 51 e Art 52",
+          "audio": "a1_14_1.mp3"
+      },
+	  {
+          "texto": "Da acessibilidade",
+          "audio": "a1_15.mp3"
+      },
+	  {
+          "texto": "Art 53 e Art 54",
+          "audio": "a1_15_1.mp3"
+      },
+	  {
+          "texto": "Art 55",
+          "audio": "a1_15_2.mp3"
+      },
+	  {
+          "texto": "Art 56",
+          "audio": "a1_15_3.mp3"
+      },
+	  {
+          "texto": "Art 57, Art 58",
+          "audio": "a1_15_4.mp3"
+      },
+	  {
+          "texto": "Art 59",
+          "audio": "a1_15_5.mp3"
+      },
+	  {
+          "texto": "Art 60",
+          "audio": "a1_15_6.mp3"
+      },
+	  {
+          "texto": "Art 61, Art 62",
+          "audio": "a1_15_7.mp3"
+      },
+	  {
+          "texto": "Do acesso a informação e a comunicação",
+          "audio": "a1_16.mp3"
+      },
+	  {
+          "texto": "Art 63",
+          "audio": "a1_16_1.mp3"
+      },
+	  {
+          "texto": "Art 64",
+          "audio": "a1_16_1a.mp3"
+      },
+	  {
+          "texto": "Art 65",
+          "audio": "a1_16_1b.mp3"
+      },
+	  {
+          "texto": "Art 66",
+          "audio": "a1_16_1c.mp3"
+      },
+	  {
+          "texto": "Art 67",
+          "audio": "a1_16_2.mp3"
+      },
+	  {
+          "texto": "Art 68",
+          "audio": "a1_16_3.mp3"
+      },
+	  {
+          "texto": "Art 69",
+          "audio": "a1_16_4.mp3"
+      },
+	  {
+          "texto": "Art 70 e Art 71",
+          "audio": "a1_16_5.mp3"
+      },
+	  {
+          "texto": "Art 72 e Art 73",
+          "audio": "a1_16_6.mp3"
+      },
+	  {
+          "texto": "Da tecnologia assistiva",
+          "audio": "a1_17.mp3"
+      },
+	  {
+          "texto": "Art 74",
+          "audio": "a1_17_1.mp3"
+      },
+	  {
+          "texto": "Art 75",
+          "audio": "a1_17_2.mp3"
+      },
+	   {
+          "texto": "Do direito a participação da vida pública e política",
+          "audio": "a1_18.mp3"
+      },
+	  {
+          "texto": "Art 76",
+          "audio": "a1_18_1.mp3"
+      },
+	  {
+          "texto": "Da ciência e tecnologia",
+          "audio": "a1_19.mp3"
+      },
+	  {
+          "texto": "Art 77",
+          "audio": "a1_19_1.mp3"
+      },
+	  {
+          "texto": "Art 78",
+          "audio": "a1_19_2.mp3"
+      },
+	  {
+          "texto": "Do acesso à justiça",
+          "audio": "a1_20.mp3"
+      },
+	  {
+          "texto": "Art 79",
+          "audio": "a1_20_1.mp3"
+      },
+	  {
+          "texto": "Art 80",
+          "audio": "a1_20_2.mp3"
+      },
+	  {
+          "texto": "Art 81",
+          "audio": "a1_20_3.mp3"
+      },
+	  {
+          "texto": "Art 82",
+          "audio": "a1_20_4.mp3"
+      },
+	  {
+          "texto": "Art 83",
+          "audio": "a1_20_5.mp3"
+      },
+	   {
+          "texto": "Do reconhecimento igual perante a lei",
+          "audio": "a1_21.mp3"
+      },
+	  {
+          "texto": "Art 84",
+          "audio": "a1_21_1.mp3"
+      },
+	  {
+          "texto": "Art 85",
+          "audio": "a1_21_2.mp3"
+      },
+	  {
+          "texto": "Art 86",
+          "audio": "a1_21_3.mp3"
+      },
+	  {
+          "texto": "Art 87",
+          "audio": "a1_21_4.mp3"
+      },
+	  {
+          "texto": "Dos crimes e das infrações administrativas",
+          "audio": "a1_22.mp3"
+      },
+	  {
+          "texto": "Art 88",
+          "audio": "a1_22_1.mp3"
+      },
+	  {
+          "texto": "Art 89",
+          "audio": "a1_22_2.mp3"
+      },
+	  {
+          "texto": "Art 90",
+          "audio": "a1_22_3.mp3"
+      },
+	  {
+          "texto": "Art 91",
+          "audio": "a1_22_4.mp3"
+      },
+	  {
+          "texto": "Art 92",
+          "audio": "a1_22_5.mp3"
+      },
+      {
+        "texto": "Fim do Conteúdo - Use botão ACIMA",
+        "audio": "abaixo.mp3"
+      }
+  ]
+}
